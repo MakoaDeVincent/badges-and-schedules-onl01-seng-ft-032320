@@ -17,3 +17,12 @@ def assign_rooms(name)
   end
   return name_and_room
 end
+
+def printer(attendees)
+  batch_badge_creator(name).each do |greeting|
+    return greeting
+  end
+  assign_rooms(name).each do |greeting|
+    return greeting
+  end
+end
