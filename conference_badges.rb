@@ -19,4 +19,3 @@ def assign_rooms(name)
   end
   return name_and_room
 end
-  
